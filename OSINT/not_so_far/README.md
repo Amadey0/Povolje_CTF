@@ -1,6 +1,6 @@
 # Не так уж и далеко | простой | OSINT
 
-![](CTF_osint.png)
+![](./public/CTF_osint.png)
 
 
 # Описание:
